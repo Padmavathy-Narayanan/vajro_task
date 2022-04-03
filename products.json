@@ -1,121 +1,122 @@
 [
-    {
-      "name": "Black Cut-out Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/S19064WBL001-1.jpg",
-      "price": "₹1,249",
-    },
-    {
-      "name": "White Sheer Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/S18034WBL001-2.jpg",
-      "price": "₹1,449",
-    },
-    {
-      "name": "Black Sheer Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W17502WBL002_S-1.jpg",
-      "price": "₹1,249",
-    },
-    {
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W17516WBL001_S-1.jpg",
-      "price": "₹1,399",
-    },
-    {
-      "name": "Women Party Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/FU0508WBL001-1.jpg",
-      "price": "₹1,499",
-    },
-    {
-      "name": "Glam Dakota Plus Size Tie Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19211PBL003-1.jpg",
-      "price": "₹1,549",
-    },
-    {
-      "name": "Belle Mobita Women Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL005-1.jpg",
-      "price": "₹1,499",
-    },
-    {
-      "name": "Mustard Bent Women Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL004-1.jpg",
-      "price": "₹1,499",
-    },
-    {
-      "name": "Abstract Den Women Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL003-1.jpg",
-      "price": "₹1,649",
-    },
-    {
-      "name": "Floral Ferry Women Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL002-1.jpg",
-      "price": "₹1,649",
-    },
-    {
-      "name": "Floral Hanna Women Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL001-1.jpg",
-      "price": "₹1,649",
-    },
-    {
-      "name": "Floral Soul Woman Glam Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19133WBL004-1.jpg",
-      "price": "₹1,399",
-    },
-    {
-      "name": "Olive Anima Wang Frill Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19032WBL002-1.jpg",
-      "price": "₹1,349",
-    },
-    {
-      "name": "Navy Play Peasant Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19031WBL002-1.jpg",
-      "price": "₹1,449",
-    },
-    {
-      "name": "Lase Poppy Tape Detail Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19013WBL001-1.jpg",
-      "price": "₹1,699",
-    },
-    {
-      "name": "Peppy Diva Halter Glam Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19005WBL002-1.jpg",
-      "price": "₹949",
-    },
-    {
-      "name": "Foresty Diva Den Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19001WBL002-1.jpg",
-      "price": "₹1,449",
-    },
-    {
-      "name": "Glitter Helen Roxy Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19001WBL001-1.jpg",
-      "price": "₹1,449",
-    },
-    {
-      "name": "Pacific Slip Plus Size Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19054PBL002-1.jpg",
-      "price": "₹1,249",
-    },
-    {
-      "name": "Camel Camo Plus Size Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19054PBL001-1.jpg",
-      "price": "₹1,249",
-    },
-    {
-      "name": "Floral Zoo Plus Size Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19202PBL002-1.jpg",
-      "price": "₹1,699",
-    },
-    {
-      "name": "Flowery Magic Angel Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19018GBL003-1.jpg",
-      "price": "₹749",
-    },
-    {
-      "name": "Deep Sea Bound Chic Girl Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19017GSH003-1.jpg",
-      "price": "₹1,199",
-    },
-    {
-      "name": "Floral Notan Women Top",
-      "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19056WBL002-1.jpg",
-      "price": "₹1,399",
-    }
-  ]
+  {
+    "name": "Black Cut-out Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/S19064WBL001-1.jpg",
+    "price": "₹1,249"
+  },
+  {
+    "name": "White Sheer Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/S18034WBL001-2.jpg",
+    "price": "₹1,449"
+  },
+  {
+    "name": "Black Sheer Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W17502WBL002_S-1.jpg",
+    "price": "₹1,249"
+  },
+  {
+    "name": "Blue Solid Tie-up Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W17516WBL001_S-1.jpg",
+    "price": "₹1,399"
+  },
+  {
+    "name": "Women Party Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/FU0508WBL001-1.jpg",
+    "price": "₹1,499"
+  },
+  {
+    "name": "Glam Dakota Plus Size Tie Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19211PBL003-1.jpg",
+    "price": "₹1,549"
+  },
+  {
+    "name": "Belle Mobita Women Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL005-1.jpg",
+    "price": "₹1,499"
+  },
+  {
+    "name": "Mustard Bent Women Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL004-1.jpg",
+    "price": "₹1,499"
+  },
+  {
+    "name": "Abstract Den Women Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL003-1.jpg",
+    "price": "₹1,649"
+  },
+  {
+    "name": "Floral Ferry Women Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL002-1.jpg",
+    "price": "₹1,649"
+  },
+  {
+    "name": "Floral Hanna Women Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19174WBL001-1.jpg",
+    "price": "₹1,649"
+  },
+  {
+    "name": "Floral Soul Woman Glam Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19133WBL004-1.jpg",
+    "price": "₹1,399"
+  },
+  {
+    "name": "Olive Anima Wang Frill Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19032WBL002-1.jpg",
+    "price": "₹1,349"
+  },
+  {
+    "name": "Navy Play Peasant Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19031WBL002-1.jpg",
+    "price": "₹1,449"
+  },
+  {
+    "name": "Lase Poppy Tape Detail Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19013WBL001-1.jpg",
+    "price": "₹1,699"
+  },
+  {
+    "name": "Peppy Diva Halter Glam Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19005WBL002-1.jpg",
+    "price": "₹949"
+  },
+  {
+    "name": "Foresty Diva Den Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19001WBL002-1.jpg",
+    "price": "₹1,449"
+  },
+  {
+    "name": "Glitter Helen Roxy Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19001WBL001-1.jpg",
+    "price": "₹1,449"
+  },
+  {
+    "name": "Pacific Slip Plus Size Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19054PBL002-1.jpg",
+    "price": "₹1,249"
+  },
+  {
+    "name": "Camel Camo Plus Size Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19054PBL001-1.jpg",
+    "price": "₹1,249"
+  },
+  {
+    "name": "Floral Zoo Plus Size Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19202PBL002-1.jpg",
+    "price": "₹1,699"
+  },
+  {
+    "name": "Flowery Magic Angel Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19018GBL003-1.jpg",
+    "price": "₹749"
+  },
+  {
+    "name": "Deep Sea Bound Chic Girl Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19017GSH003-1.jpg",
+    "price": "₹1,199"
+  },
+  {
+    "name": "Floral Notan Women Top",
+    "image": "https://ik.imagekit.io/bfrs/tr:w-593,h-593,pr-true,cm-pad_resize,bg-FFFFFF/image_oxolloxodemo/data/W19056WBL002-1.jpg",
+    "price": "₹1,399"
+  }
+]
